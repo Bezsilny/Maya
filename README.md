@@ -4,3 +4,5 @@
 Consists of:
 - wheel model with lights and shades
 - car seat model
+- character model 
+- building model
